@@ -1,0 +1,16 @@
+E:\문서\C#\LOLFreeView\LOLFreeView\bin\Release\LOLFreeView.exe.config
+E:\문서\C#\LOLFreeView\LOLFreeView\bin\Release\LOLFreeView.exe
+E:\문서\C#\LOLFreeView\LOLFreeView\bin\Release\LOLFreeView.pdb
+E:\문서\C#\LOLFreeView\LOLFreeView\bin\Release\Newtonsoft.Json.dll
+E:\문서\C#\LOLFreeView\LOLFreeView\bin\Release\Newtonsoft.Json.pdb
+E:\문서\C#\LOLFreeView\LOLFreeView\bin\Release\Newtonsoft.Json.xml
+E:\문서\C#\LOLFreeView\LOLFreeView\obj\Release\LOLFreeView.Form1.resources
+E:\문서\C#\LOLFreeView\LOLFreeView\obj\Release\LOLFreeView.Properties.Resources.resources
+E:\문서\C#\LOLFreeView\LOLFreeView\obj\Release\LOLFreeView.csproj.GenerateResource.cache
+E:\문서\C#\LOLFreeView\LOLFreeView\obj\Release\LOLFreeView.csproj.CoreCompileInputs.cache
+E:\문서\C#\LOLFreeView\LOLFreeView\obj\Release\LOLFreeView.csproj.CopyComplete
+E:\문서\C#\LOLFreeView\LOLFreeView\obj\Release\LOLFreeView.exe
+E:\문서\C#\LOLFreeView\LOLFreeView\obj\Release\LOLFreeView.pdb
+E:\문서\C#\LOLFreeView\LOLFreeView\obj\Release\LOLFreeView.csprojAssemblyReference.cache
+E:\문서\C#\LOLFreeView\LOLFreeView\obj\Release\LOLFreeView.Form2.resources
+E:\문서\C#\LOLFreeView\LOLFreeView\obj\Release\LOLFreeView.Form3.resources
